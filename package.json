@@ -1,0 +1,19 @@
+{
+  "name": "illite",
+  "version": "1.0.0",
+  "description": "Social Media Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/00sakshi00/Illite.git"
+  },
+  "author": "Sakshi Shukla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/00sakshi00/Illite/issues"
+  },
+  "homepage": "https://github.com/00sakshi00/Illite#readme"
+}
