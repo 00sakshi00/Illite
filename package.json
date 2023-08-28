@@ -10,7 +10,7 @@
   "keywords": [
     "social"
   ],
-  "author": "Sakshi Shukla",
+  "author": "CodingNinjas",
   "license": "ISC",
   "dependencies": {
     "connect-flash": "^0.1.1",
